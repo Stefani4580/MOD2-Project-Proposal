@@ -94,9 +94,52 @@ I will attempt to learn Firebase for this project.  I will store my API data in 
     - Alcohol
     - Recipe
 
-## Wireframe
+# Wireframe
 
 https://balsamiq.cloud/shambyf/pm6ekv2
+
+# Expected roadblocks
+
+## Firebase
+I will have to teach myself Firebase.  There is a risk attempting to use a new-to-me technology. My backup plan is to use a JSON file, but again I will have to research how to CRUD in a JSON.  There is risk associated, but hopefully it is to a lesser extent.
+
+## React Router
+We were taught a very basic implementation of React Router.  Our page had no other elements other than the Router.  There is risk associated with implementing a real life example.
+
+# Timeline
+
+## Tuesday
+- Proposal approval
+- Firebase tutorial
+- Refine Wireframe
+- Complete Weather hw for practice with React-Router.
+
+## Wednesday
+- Pseudocode major features
+- Start building UI using React Bootstrap including React-Router
+- Test React-Router implementation with React Bootstrap
+- Complete Wine hw
+
+## Thursday
+- Retrieve and store API data for single call using Firebase
+- Display data from Firebase store
+- Implement "Find a recipe by name"
+- Test "Find a recipe by name"
+
+## Friday
+- Build "Find a recipe by alcohol"
+- Test "Find a recipe by alcohol"
+- Determine if any stretch goals can be added.
+
+## Saturday
+- Add stretch goals
+- Add final features
+
+## Sunday
+- Minor coding adjustments
+
+
+
 
 
 
